@@ -1,0 +1,23 @@
+body{
+    background: rgb(108, 206, 235);
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+.wrapper{
+    text-align: center;
+}
+ul li {
+    list-style-type: none;
+}
+button  {
+    padding: 7px 10px;
+    color: rgb(7, 108, 145);
+    font-size: 15px;
+}
+input {
+padding: 7px 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
